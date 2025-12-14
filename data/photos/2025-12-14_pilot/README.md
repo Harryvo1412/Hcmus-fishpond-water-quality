@@ -1,9 +1,7 @@
 # Photos — 2025-12-14 Pilot
 
-This folder is the planned cleaned location for pilot photos.
-Current photos are temporarily stored in:
-`2025-12-14/measure 3 water samples 3 times/`
+This folder contains the pilot session photos for 2025-12-14 (HCMUS Campus 2 fish pond).
+Photos are kept with original filenames and timestamps (no edits).
 
-TODO:
-- Move photos here when convenient.
-- Keep original timestamps (no edits).
+Notes:
+- Some filenames may include duplicate extensions (e.g., .jpg.jpg). This does not affect the data.
