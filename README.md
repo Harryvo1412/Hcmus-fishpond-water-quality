@@ -49,11 +49,9 @@ sampling session and will be expanded with future sampling campaigns.
 ## 4) Field workflow (what was done)
 1. Prepare clean sampling bottles and label templates.
 2. Collect surface water (~10 cm depth) for each bottle.
-3. Label each bottle immediately at the sampling site  
-   (Sample ID, location, date, time, collector).
-4. Measure pH, EC/TDS, and temperature in **multiple rounds**.
-5. Document each step with photos  
-   (sampling, labelling, instrument readings).
+3. Label each bottle immediately at the sampling site (Sample ID, location, date, time, collector).
+4. Measure pH, EC/TDS, and temperature in multiple rounds.
+5. Document each step with photos (sampling, labeling, instrument readings).
 
 ---
 ## Future work
@@ -63,28 +61,20 @@ sampling session and will be expanded with future sampling campaigns.
 - Basic data analysis and visualization (time series, comparison between samples)
 
 ---
-## 5) Data files & folder structure
-
-Recommended structure:
-
-```text
 Hcmus-fishpond-water-quality/
-│
 ├── README.md
 ├── LICENSE
-│
+├── arduino/
+│   └── water_quality_logger_01/
 ├── data/
-│   ├── photos/
-│   │   ├── 2025-12-14_HCMUS-FishPond_Sample01_FieldSampling.jpg
-│   │   ├── 2025-12-14_HCMUS-FishPond_Sample01_pH_Round1.jpg
-│   │   ├── 2025-12-14_HCMUS-FishPond_Sample01_EC-Temp_Round1.jpg
-│   │   └── ...
-│   │
-│   └── measurements/
-│       └── 2025-12-14_pilot_measurements.csv
-│
+│   ├── measurements/
+│   │   └── 2025-12-14_pilot_measurements.xlsx
+│   └── photos/
+│       └── 2025-12-14_pilot/
+│           ├── README.md
+│           ├── <photo_1>.jpg
+│           └── <photo_2>.jpg
 └── notes/
     └── field_log_2025-12-14.md
-
 
 
