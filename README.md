@@ -11,9 +11,11 @@ sampling session and will be expanded with future sampling campaigns.
 - **Site name:** Fish pond (Faculty area) – HCMUS Campus 2
 - **Country/City:** Vietnam (GMT+7)
 - **Sampling depth:** Surface water (~10 cm)
+ 
+> Note: Location and sampling context are documented via timestamped photos
+> currently stored in `2025-12-14/measure 3 water samples 3 times/`.
+> (Planned cleanup) Move to `data/photos/2025-12-14_pilot/`.
 
-> Note: Location and sampling context are documented via timestamped photos  
-> stored in `data/photos/`.
 
 ---
 ## 2) Sampling design (current phase)
