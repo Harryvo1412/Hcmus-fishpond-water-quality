@@ -6,6 +6,13 @@ at **HCMUS Campus 2 fish pond**.
 This repository contains **field photos and initial measurements** from a pilot
 sampling session and will be expanded with future sampling campaigns.
 
+## Data & folders
+- **Measurements (Excel):** `data/measurements/2025-12-14_pilot_measurements.xlsx`
+- **Field log:** `notes/field_log_2025-12-14.md`
+- **Photos (current):** `2025-12-14/measure 3 water samples 3 times/`
+- **Photos (planned cleanup):** `data/photos/2025-12-14_pilot/`
+- **Arduino logger:** `arduino/water_quality_logger_01/`
+- 
 ---
 ## 1) Study site
 - **Site name:** Fish pond (Faculty area) – HCMUS Campus 2
