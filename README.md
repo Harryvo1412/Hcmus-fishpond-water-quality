@@ -52,7 +52,7 @@ How do **basic in-situ water parameters** (pH, EC/TDS, temperature) and **turbid
 2) **across sessions** (multi-date visits),  
 at the HCMUS Campus 2 fish pond?
 
-This is a **pilot/baseline study** to establish a clean workflow and an initial dataset for future expansion (deeper sampling, more parameters, automated logging, and quantitative turbidity/DO sensors).
+This is a **pilot/baseline study** to establish a clean workflow and an initial dataset for future expansion (deeper sampling, more parameters, deeper sampling, automated logging, and quantitative turbidity (NTU) / dissolved oxygen (DO) measurements).
 
 ---
 
