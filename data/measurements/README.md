@@ -24,5 +24,5 @@ Suggested minimum columns:
 ## Notes
 - This dataset is designed to be **traceable** to photo/video evidence stored under `data/photos/`.
 - Future sessions (2025-12-21, 2025-12-28) will be appended as additional files or merged into a single consolidated spreadsheet.
-- ## Traceability
-Photo evidence (Session 1): `data/photos/2025-12-14_pilot_in-situ_R1-R3/`
+## Traceability
+- Photo evidence (Session 1): [data/photos/2025-12-14_pilot_in-situ_R1-R3](../photos/2025-12-14_pilot_in-situ_R1-R3)
