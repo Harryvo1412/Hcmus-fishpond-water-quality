@@ -1,0 +1,6 @@
+2025-12-21_HCMUS-FishPond_R2_S06_EC-TDS_MISSING
+Missing: 2025-12-21_HCMUS-FishPond_Sample06_EC-Temp_Round2.jpg
+
+Reason: accidental file loss
+
+Data source: field log/spreadsheet entry.
