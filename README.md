@@ -10,6 +10,13 @@
 - Presentation (PDF): `docs/2025-12-31_HCMUS_Fishpond_Water_Quality_Presentation_Pdf.pdf`
 - Preliminary analysis (PDF): `docs/2025-30-12_Round_2-3_Analysis_HCMUS_Fishpond_v2.pdf`
 ---
+## Quick map
+- 📊 Measurements (dataset): `data/measurements/`
+- 🖼️ Photo evidence (traceability): `data/photos/`
+- 📄 Research report (pilot methods + limitations): `docs/research_report.md`
+- 🎞️ Media (images/videos): `images/` and `videos/`
+- 📑 Slides / PDFs: `docs/`
+---
 
 ## 0) What this repository is
 This repository documents my **first end-to-end environmental fieldwork pilot**, including:
