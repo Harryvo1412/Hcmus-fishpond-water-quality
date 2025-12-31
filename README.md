@@ -97,8 +97,8 @@ This design supports:
 
 ### 4.3 Controls (baseline references)
 To support visual comparison and traceability:
-- **Tap-water control (TW):** clarity baseline reference
-- **Blank container control (CTR):** container/background baseline reference
+- **Tap-water control (TW): clarity baseline reference
+- **Blank container control (BLK/CTR): container/background baseline reference
 
 ---
 
@@ -153,8 +153,8 @@ Turbidity/clarity is assessed through:
 - **Resuspension behavior after gentle shaking** (video evidence)
 
 ### 7.2 Controls for baseline
-- **Tap-water control (TW):** baseline “clear”
-- **Blank container control (CTR):** confirms container/background is not misleading
+- **Tap-water control (TW): baseline “clear”
+- **Blank container control (BLK/CTR): confirms container/background is not misleading
 
 ### 7.3 Reproducible visual comparison workflow
 1) Use **lineup photos** (multiple bottles in one frame) to compare clarity/color
