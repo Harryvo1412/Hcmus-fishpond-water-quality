@@ -1,9 +1,14 @@
 # HCMUS Fishpond Water Quality (Pilot Study)
 **Field sampling + repeated in-situ measurements + visual turbidity evidence**  
 **Location:** Fish pond (faculty area), HCMUS Campus 2, Vietnam (GMT+7)  
-**Collector:** Harry Meanwhile (solo project)  
+**Collector:** Harry Vo (solo project)  
 **License:** MIT
 
+---
+## Research report
+- Full report (pilot): `docs/research_report.md`
+- Presentation (PDF): `docs/2025-12-31_HCMUS_Fishpond_Water_Quality_Presentation_Pdf.pdf`
+- Preliminary analysis (PDF): `docs/2025-30-12_Round_2-3_Analysis_HCMUS_Fishpond_v2.pdf`
 ---
 
 ## 0) What this repository is
